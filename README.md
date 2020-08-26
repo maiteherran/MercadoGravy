@@ -3,5 +3,5 @@ This program has been designed for use as an e-commerce platform application. It
 
 ### Para ejecutar el programa:
 1. Descargar MercadoGravy.jar, que se encuentra en el repositorio. 
-2. Para ejecutar el programa, en la terminal, en el directorio donde se encuentra el .jar:
-$> java -jar MercadoGravy.jar
+2. Para ejecutar el programa, en la terminal, en el directorio donde se encuentra el .jar: 
+#### $> java -jar MercadoGravy.jar
